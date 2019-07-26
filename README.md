@@ -1,6 +1,6 @@
 
 
-# StockPE_targets
+# SHub
 ## ! WELCOME FROM 7WDEV(StockPE owner) !
 
 #### How To Use?
@@ -8,7 +8,7 @@
 
 2-put this plugin in the plugins folder :
 ```
-Server\plugins\StockPE_targets.phar
+Server\plugins\SHub.phar
                       |
                      \ /
               this is the plugin
@@ -16,23 +16,19 @@ Server\plugins\StockPE_targets.phar
 ```
 3-enjoy !
 
-(@p - nearest player
+/setworldspawn - setlobby.
 
-@s - yourself
+/hub - tp to lobby + clears inv + clear effects!
 
-@r - random player
-
-@e - entities
-
-@a - all players
-
-/rm@e - reduce lag)
+/lobby - tp to lobby + clears inv + clear effects!
 
 * [StockPE](#) - plugin installing link from stockpe !
 
 
 #### Info
 plugin developed by : 7awariGamer[7Wdev] !
+
+this plugin works with reducing lag system !
 
 this is a free plugin for all pmmp users !
 
