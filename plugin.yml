@@ -1,0 +1,25 @@
+name: SHub
+main: StockPE\MCBE\SHub
+version: 1.0.9
+api: [3.0.0]
+author: 7awariGamer(7Wdev)   #this plugin developed by StockPE owner!
+                             #this plugin forked from bukkit!
+                             #have fun with making your hub more systemed!
+                             #all perms is here!
+                             #this plugin can be used with lobbycores without any problems!
+description: the best hubs / lobbies system for pmmp!
+
+commands:
+  hub:
+    description: teleport to hub/lobby!
+    usage: "/hub"
+    permission: stockpe.shub
+  lobby:
+    description: teleport to hub/lobby!
+    usage: "/lobby"
+    permission: stockpe.shub
+
+permissions:
+  stockpe.shub:
+    description: "/hub:lobby"
+    default: true
